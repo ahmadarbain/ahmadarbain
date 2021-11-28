@@ -10,7 +10,7 @@ Beside all the things I already learned I also active followed some event and co
 <!-- thropy -->
 <a href="https://rifqirosyidi.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=onedark" width="`1000"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=onedark" width="`2000"/>
     </p>
 </a>
 
