@@ -5,27 +5,22 @@ My name is **Ahmad Arbain** a 3rd years student of informatics engineering in La
 Beside all the things I already learned I also active followed some event and competition such as Bangkit 2021, Arubalympics 2020. 
 <br><br>I really love to learn something new to increase my insight to give me more skills and I also had interest to learn about big data to become a data analyst.<br><br> 
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&langs_count=8)](https://github.com/ahmadarbain/Frontend-Search_Meal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&layout=compact)](https://github.com/ahmadarbain/Frontend-Search_Meal)
-
 #### Stats:  
 
 <!-- thropy -->
 <a href="https://rifqirosyidi.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=rifqirosyidi&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
 <a align="center" href="https://rifqirosyidi.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=radical" alt="my github stats" width="500"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=rifqirosyidi&color=brightgreen&style=flat-square" alt="profile_views"/>
+ <img src="https://komarev.com/ghpvc/?username=ahmadarbain&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
