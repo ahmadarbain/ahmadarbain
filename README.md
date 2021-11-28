@@ -6,4 +6,6 @@ Beside all the things I already learned I also active followed some event and co
 <br><br>I really love to learn something new to increase my insight to give me more skills and I also had interest to learn about big data to become a data analyst.<br><br> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&layout=compact)](https://github.com/ahmadarbain/Frontend-Search_Meal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&langs_count=8)](https://github.com/ahmadarbain/Frontend-Search_Meal)
