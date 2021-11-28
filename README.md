@@ -7,7 +7,6 @@ Beside all the things I already learned I also active followed some event and co
 
 #### Stats:  
 
-<p align="center">
     <!-- thropy -->
     <a href="#">
         <p align="center">
@@ -26,4 +25,3 @@ Beside all the things I already learned I also active followed some event and co
     <p align="center">
      <img src="https://komarev.com/ghpvc/?username=ahmadarbain&color=brightgreen&style=flat-square" alt="profile_views"/>
     </p>
-</p>
