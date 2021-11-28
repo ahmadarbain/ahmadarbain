@@ -7,21 +7,23 @@ Beside all the things I already learned I also active followed some event and co
 
 #### Stats:  
 
-<!-- thropy -->
-<a href="https://rifqirosyidi.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=algolia"/>
-    </p>
-</a>
+<div align="center">
+    <!-- thropy -->
+    <a href="#">
+        <p align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=algolia"/>
+        </p>
+    </a>
 
-<!-- status codes -->
-<a align="center" href="https://ahmadarbain.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia" alt="my github stats" width="350"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=algolia&layout=compact" alt="languages" height="150">
-    </p>
-</a>
+    <!-- status codes -->
+    <a align="center" href="https://ahmadarbain.github.io">
+        <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia" alt="my github stats" width="350"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=algolia&layout=compact" alt="languages" height="140">
+        </p>
+    </a>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=ahmadarbain&color=brightgreen&style=flat-square" alt="profile_views"/>
-</p>
+    <p align="center">
+     <img src="https://komarev.com/ghpvc/?username=ahmadarbain&color=brightgreen&style=flat-square" alt="profile_views"/>
+    </p>
+</div>
