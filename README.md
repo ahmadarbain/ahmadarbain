@@ -15,9 +15,10 @@ Beside all the things I already learned I also active followed some event and co
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://rifqirosyidi.github.io">
+<a align="center" href="https://ahmadarbain.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=radical" alt="my github stats" width="470"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
 
