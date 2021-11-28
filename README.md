@@ -17,8 +17,8 @@ Beside all the things I already learned I also active followed some event and co
 <!-- status codes -->
 <a align="center" href="https://ahmadarbain.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia" alt="my github stats" width="300"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=algolia&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia" alt="my github stats" width="350"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarbain&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=algolia&layout=compact" alt="languages" height="100">
     </p>
 </a>
 
