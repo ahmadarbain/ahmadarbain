@@ -6,15 +6,14 @@ Beside all the things I already learned I also active followed some event and co
 <br><br>I really love to learn something new to increase my insight to give me more skills and I also had interest to learn about big data to become a data analyst.<br><br> 
 
 #### Stats:  
-<div align="center">
-    <!-- thropy -->
+<P align="center">
    <a href="#">
         <p align="center">
             <img src="https://github-profile-trophy.vercel.app/?username=ahmadarbain&column=7&theme=algolia"/>
         </p>
     </a>
 
-    <!-- status codes -->
+        
    <a align="center" href="https://ahmadarbain.github.io">
         <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia" alt="my github stats" width="350"/>&nbsp;
@@ -25,4 +24,4 @@ Beside all the things I already learned I also active followed some event and co
    <p align="center">
      <img src="https://komarev.com/ghpvc/?username=ahmadarbain&color=brightgreen&style=flat-square" alt="profile_views"/>
    </p>
-</div>
+</P>
