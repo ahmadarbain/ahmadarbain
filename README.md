@@ -5,10 +5,6 @@ My name is **Ahmad Arbain** a 3rd years student of informatics engineering in La
 Beside all the things I already learned I also active followed some event and competition such as Bangkit 2021, Arubalympics 2020. 
 <br><br>I really love to learn something new to increase my insight to give me more skills and I also had interest to learn about big data to become a data analyst.<br><br> 
 
-<p align="left">
-<a href="https://github.com/ahmadarbain">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadarbain&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadarbain&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  
- ![Ahmad Arbain GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain)](https://github.com/anuraghazra/github-readme-stats)
+![Ahmad Arbain GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadarbain&hide=contribs,prs)
